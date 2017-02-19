@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dll-loader.cpp
+  Generating code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dll-loader.vcxproj -> D:\github\dll-loader\dll-loader\Release\dll-loader.exe
+  dll-loader.vcxproj -> D:\github\dll-loader\dll-loader\Release\dll-loader.pdb (Full PDB)
